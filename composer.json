@@ -1,0 +1,6 @@
+{
+    "name": "mstenta/test",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
